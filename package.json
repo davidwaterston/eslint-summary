@@ -1,0 +1,34 @@
+{
+    "name": "eslint-summary",
+    "version": "1.0.0",
+    "description": "Minimal ESLint formatter (reporter) that displays only one summary line.",
+    "keywords": [
+        "eslint",
+        "formatter",
+        "reporter",
+        "lint",
+        "validate"
+    ],
+    "license": "MIT",
+    "author": {
+        "name": "David Waterston",
+        "email": "david@davidwaterston.com",
+        "url": "http://dvolvr.davidwaterston.com"
+    },
+    "repository" :
+    {
+        "type" : "git",
+        "url" : "https://github.com/davidwaterston/eslint-summary.git"
+    },
+    "files": [
+        "index.js",
+        "summary.js"
+    ],
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "dependencies": {
+        "chalk": "^1.0.0",
+        "text-table": "^0.2.0"
+    }
+}
