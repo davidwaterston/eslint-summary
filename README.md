@@ -1,5 +1,7 @@
 ##A minimal [ESLint](http://eslint.org) custom formatter (reporter) that displays one summary line for all files processed.
 
+[![Join the chat at https://gitter.im/davidwaterston/eslint-summary](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davidwaterston/eslint-summary?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="http://semver.org" target="_blank" alt="Semantic Versioning"><img src="https://img.shields.io/badge/semver-1.0.0-lightgrey.svg"></a>
 <a href="https://github.com/davidwaterston/eslint-summary/blob/master/LICENSE" target="_blank" alt="MIT License"><img src="http://img.shields.io/badge/license-MIT-blue.svg"></a>
 <a href="https://david-dm.org/davidwaterston/eslint-summary" target="_blank" alt="Dependencies"><img src="https://david-dm.org/davidwaterston/eslint-summary.svg"></a>
