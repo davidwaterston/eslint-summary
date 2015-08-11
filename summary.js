@@ -49,8 +49,6 @@ module.exports = function(results) {
         summaryLineArray.push(chalk[errorColor].bold(errorCount + ' ' + pluralize('error', errorCount) + '.'));
     }
 
-    return '\n'
-            + table([summaryLineArray])
-            + '\n';
+    return table([summaryLineArray]);
 
 };
